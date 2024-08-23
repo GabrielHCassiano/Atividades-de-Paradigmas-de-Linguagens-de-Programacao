@@ -1,0 +1,1 @@
+# Atividades-de-Paradigmas-de-Linguagens-de-Programa-o
