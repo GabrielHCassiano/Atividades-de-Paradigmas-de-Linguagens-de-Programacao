@@ -1,3 +1,5 @@
+package Atv09;
+
 import java.util.Scanner;
 
 public class Main {

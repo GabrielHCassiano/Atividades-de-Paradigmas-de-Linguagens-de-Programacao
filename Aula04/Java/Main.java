@@ -1,3 +1,5 @@
+package Aula04.Java;
+
 public class Main {
     public static void main(String[] args)
     {
